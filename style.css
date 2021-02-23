@@ -1,0 +1,58 @@
+.title{
+    color: purple;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+body{
+    background-image: url(https://www.helloimg.com/images/2021/02/17/B9u2D6.png);
+    background-attachment: scroll;
+    background-position: center;
+}
+h2{
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.video{
+    clear:both;
+    display:block;
+    margin:auto
+}
+.center{
+    text-align: center;
+}
+.year{
+    color: rgb(255, 238, 0);
+    font-size: large;
+    font-family: fantasy;
+}
+.telling{
+    color: honeydew;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.explain{
+    color: gray;
+    font-size: 15px;
+}
+.backtop{
+    color: honeydew;
+}
+.left{
+    display: block;
+        position: fixed;
+        top: 400px;
+        left: 50px;
+        height: 100px;
+        width: 100px;
+}
+.cc{
+    float: inline-end;
+    position: absolute;
+}
+.next{
+    color: honeydew;
+    font-family: fantasy;
+}
+.d{
+    color: hotpink;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 18px;
+}
